@@ -1,4 +1,4 @@
-# Cookies! [cookies](https://github.com/DarielEGM/Cookies/assets/123778387/3e42598a-c595-4ddf-ad8b-6cd6a6cc7706)
+# Cookies! ![cookies](https://github.com/DarielEGM/Cookies/assets/123778387/73f72f77-80d0-41db-9f21-b3c3e4d26cd1)
 
 This project was built with JavaScript, HTML, and CSS.
 
